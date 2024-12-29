@@ -13,3 +13,7 @@ Getting started with CapacitorJS 5 and Ionic-vue 7 with camera plugins.
 | ----------- | ----------- |
 | ANDROID_HOME | C:\Users\TNS\AppData\Local\Android\Sdk |
 | JAVA_HOME | C:\Program Files\Java\jdk-17 |
+
+## Run the emulator
+1. First run the emulator from Android Studio > Tools menu > Device Manager
+2. Then run `npx cap run android` to build the app and publish to the running emulator.
